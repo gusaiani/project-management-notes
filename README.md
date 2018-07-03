@@ -2,7 +2,7 @@
 
 I've never formally studied PM. I've been practicing it empirically, on and off, for 20 years.
 
-In this repository I will take notes on topics as I research them. If you chance upon this repo, feel free to open issues and even PRs. tThis is a public learning tool, you are welcome to be a part of it.
+In this repository I will take notes on topics as I research them. If you chance upon this repo, feel free to open issues and even PRs. This is a public learning tool, you are welcome to be a part of it.
 
 ## Earned Value Management
 
