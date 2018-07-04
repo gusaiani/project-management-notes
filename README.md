@@ -37,7 +37,9 @@ We should have completed US$800 of work by today. We completed US$600 of work. T
 A project has a budget of US$10 million and is scheduled to take 10 months. The budget is to be spent equally each month. After 2 months, the PM finds that 5% of the work is finished and US$1 million has been spent.
 
 Planned Value (PV): US$2 million
+
 Earned Value (EV): US$0.5 million
+
 Actual Cost (AC): US$1 million
 
 
